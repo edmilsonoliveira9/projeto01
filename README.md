@@ -1,2 +1,2 @@
-# projeto01
-Treinamento GitHub Copilot
+# Treinamento GitHub Copilot
+## Curso - COTI Informática
